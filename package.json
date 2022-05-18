@@ -1,0 +1,17 @@
+{
+  "name": "copia-file-cambiato",
+  "version": "1.0.0",
+  "description": "Copia un file al cambiamento con avviso a notifica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Belingheri",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {}
+}
